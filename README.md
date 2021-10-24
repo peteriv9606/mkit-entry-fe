@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project (Part1). [Back-End](https://github.com/peteriv9606/mk-entry-be)
+This is a [Next.js](https://nextjs.org/) project (Part1). [Back-End is here](https://github.com/peteriv9606/mk-entry-be)
 
 ## Getting Started
 
